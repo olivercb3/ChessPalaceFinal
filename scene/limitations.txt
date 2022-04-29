@@ -1,0 +1,8 @@
+Triangles: 10000
+Entities: 200
+Bodies: 300
+Materials: 20 (includes materials imported as part of models)
+Textures: 10
+Height: 20
+FileSize: 15MB
+FileCount: 200 files
